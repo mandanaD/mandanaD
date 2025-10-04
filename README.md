@@ -1,9 +1,9 @@
-# 👋 Hey, I’m Mandana  
-### Frontend Developer | UI Enthusiast | Lifelong Learner  
+#  Hey, I’m Mandana  
+### Frontend Developer
 
 ---
 
-### ⚡ Tech Stack  
+###  Tech Stack  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="15" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 <div align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandanaD&layout=compact&theme=radical&hide_border=true)
