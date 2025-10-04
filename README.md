@@ -17,13 +17,9 @@ I'm a passionate frontend developer focused on creating responsive, user-friendl
 ###
 
 <br clear="both">
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Mandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandanaD&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandanaD&layout=compact&theme=radical&hide_border=true)
 
