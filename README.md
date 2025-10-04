@@ -16,17 +16,6 @@ I'm a passionate frontend developer focused on creating responsive, user-friendl
 
 ###
 
-<div align="left">
-  <a href="dmandana59@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mandana-dashti-md003/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 ---
 
@@ -49,13 +38,3 @@ I'm a passionate frontend developer focused on creating responsive, user-friendl
 I'm always interested in connecting with fellow developers and working on exciting projects!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandanaD)
-
----
-
-<div align="center">
-  
-### ⭐️ From [mandanaD](https://github.com/mandanaD)
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-</div>
