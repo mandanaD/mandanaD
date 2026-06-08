@@ -20,5 +20,14 @@
   Got a cool or interesting project idea? Hit me up — always down to chat, collaborate, or build something awesome together!
 </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mandana-dashti-md003/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+<p align="left">
+  <a href="https://www.linkedin.com/in/mandana-dashti-md003/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://mandanadashti.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 </p>
